@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+/* INIZIO HEADER */
+
+.container-header{
+    background-color: #add8e6;
+    height: 500px;
+    margin: auto;
+    padding: 10px 0 3px 0;
+}
+
+
+.barra-menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 60%;
+    margin: 0px auto;
+    background: #daa520;
+    height: 45px;
+    padding: 10px;
+}
+
+.logo{
+    width: 20%;
+    text-align: left;
+}
+
+.link{
+    width: 60%;
+    text-align: center;
+}
+
+.login{
+    width: 20%;
+    text-align: right;
+}
+
+.box-blue{
+    height: 425px;
+    background: #00008b;
+    margin: 15px auto 5px auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.box-rosa{
+    height: 300px;
+    width: 45%;
+    background: #ee82ee;
+    display: flex;
+    justify-content: center;
+}
+
+/* INIZIO MAIN  */
+
+
+.container-main{
+
+}
+
+.box-white{
+    height: 425px;
+    background: #ffffff;
+    margin: 15px auto 5px auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.box-grey{
+    height: 425px;
+    background: #d3d3d3;
+    margin: 15px auto 5px auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+}
+
+.box-celeste{
+    height: 400px;
+    width: 35%;
+    background: #1e90ff;
+    display: flex;
+    justify-content: center;
+}
+
+.box-rosachiaro{
+    height: 400px;
+    width: 25%;
+    background: #ffc0cb;
+    display: flex;
+    justify-content: center;
+}
+
+.box-grey2{
+    height: 900px;
+    background: #d3d3d3;
+    margin: 15px auto 5px auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+
+}
+
+.box-green{
+    height: 800px;
+    width: 60%;
+    background: #228b22;
+    display: flex;
+    justify-content: center;
+}
+
